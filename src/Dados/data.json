@@ -1,20 +1,20 @@
 [
     {
         "id": 1,
-        "desc": "Matheus",
-        "imagem": "../../public/matheus.webp",
-        "sal": 10200.55
+        "desc": "Grand Theft Auto VI",
+        "imagem": "../../public/Grand Theft Auto VI.jgp",
+        "valor": 1767.67
     },
     {
         "id": 2,
-        "desc": "Débora",
-        "imagem": "../../public/debora.avif",
-        "sal": 45000.90
+        "desc": "Berserk Collection",
+        "imagem": "../../public/Berserk Collection.jpg",
+        "valor": 676.76
     },
     {
         "id": 3,
-        "desc": "João",
-        "imagem": "../../public/joao.jpg",
-        "sal": 500.00
+        "desc": "Trembolona",
+        "imagem": "../../public/Trembolona.jgp",
+        "valor": 6767.67
     }
 ]
