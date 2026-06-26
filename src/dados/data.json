@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "desc": "Whey Protein",
+    "valor": 99.90,
+    "imagem": "../../public/WheyProtein.webp"
+  },
+  {
+    "id": 2,
+    "desc": "Creatina",
+    "valor": 67.70,
+    "imagem": "../../public/Creatina.webp"
+  },
+  {
+    "id": 3,
+    "desc": "Pré-Treino The Killer",
+    "valor": 100.00,
+    "imagem": "../../public/TheKiller.jpg"
+  },
+  {
+    "id": 4,
+    "desc": "Pré-Treino Catarro do Capeta",
+    "valor": 299.90,
+    "imagem": "../../public/CatarroCaliel.jpg"
+  },
+  {
+    "id": 5,
+    "desc": "Pré-Treino Cinza do Cigarro do Capeta Césio-137",
+    "valor": 670.69,
+    "imagem": "../../public/Sesi167CinzaCigarroCaliel.jpg"
+  },
+  {
+    "id": 6,
+    "desc": "Trembolona",
+    "valor": 670.67,
+    "imagem": "../../public/Trembolona.webp"
+  },
+  {
+    "id": 7,
+    "desc": "Trembolona que mata até a morte",
+    "valor": 6767.67,
+    "imagem": "../../public/TrembolonaMorte.jpg"
+  }
+]
